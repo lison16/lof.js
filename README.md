@@ -9,6 +9,7 @@
 
 ex:
  ```
+ const outliers = require('lof');
  let points = [
   [35.45454, 116.4534534],
   [35.65776, 116.3557876],
